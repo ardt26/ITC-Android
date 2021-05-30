@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlayStore</string>
+    <string name="application_name">Application Name</string>
+    <string name="application_detail">Application Detail</string>
+</resources>
